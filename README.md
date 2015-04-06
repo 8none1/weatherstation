@@ -11,3 +11,6 @@ Resistive analogue moisture sensor - http://www.ebay.co.uk/itm/Rain-Weather-Modu
 Wind speed sensor - http://www.maplin.co.uk/p/maplin-replacement-wind-speed-sensor-for-n96fy-n82nf
 
 
+The ESP8266 is running the default AT software.
+
+
